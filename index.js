@@ -8,6 +8,6 @@ const multiply = num1 * num2;
 
 const random = Math.floor(Math.random() * 10) + 1;
 
-const mod = 4; // This is not a maths course wtf is this??
+const mod = 12 % 8; // This is not a maths course wtf is this??
 
 const max = Math.max(1, 2, 3, 4, 5, 6, 7, 8, 9, 20);
